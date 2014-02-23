@@ -1,0 +1,31 @@
+Logo creato con inkscape.
+
+######### Colori #########
+Circonferenza: RGBA 29ace2ff
+Testo: RGBA 83c61aff
+
+######### Spessori circonferenze #########
+e_container: 12.000
+n_container: 9.000
+t_container: 6.000
+p_container: 3.000
+y_container: 3.000
+
+######### Offset circonferenze #########
+
+Gli offset sono rispetto al layer precedente:
+offset e_container: 0.000
+offset n_container: 147.000
+offset t_container: 154.000
+offset p_container: 161.000
+offset y_container: 168.000
+
+Gli offset sono rispetto al layer "e_container":
+offset e_container: 0.000
+offset n_container: 147.000
+offset t_container: 301.000
+offset p_container: 462.000
+offset y_container: 630.000
+
+Font utilizzato:
+artifica, scaricabile da qui: http://www.fontsquirrel.com/fonts/artifika

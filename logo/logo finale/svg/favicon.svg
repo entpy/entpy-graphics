@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.2"
+   width="200"
+   height="200"
+   id="svg3016">
+  <defs
+     id="defs3018">
+    <linearGradient
+       id="linearGradient3766">
+      <stop
+         id="stop3768"
+         style="stop-color:#83c61a;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3770"
+         style="stop-color:#83c61a;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3827">
+      <feGaussianBlur
+         result="result1"
+         in="SourceAlpha"
+         stdDeviation="12"
+         id="feGaussianBlur3829" />
+      <feComposite
+         in2="result1"
+         operator="arithmetic"
+         k1="0"
+         k2="3.5"
+         k3="0"
+         k4="-2"
+         result="result2"
+         id="feComposite3831" />
+      <feComposite
+         in2="result2"
+         operator="out"
+         in="SourceGraphic"
+         result="result91"
+         id="feComposite3833" />
+      <feBlend
+         in2="result91"
+         mode="darken"
+         id="feBlend3835" />
+    </filter>
+    <linearGradient
+       x1="-58.374023"
+       y1="-25.597416"
+       x2="20.639648"
+       y2="-25.597416"
+       id="linearGradient3772"
+       xlink:href="#linearGradient3766"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       x1="-58.374023"
+       y1="-25.597416"
+       x2="20.639648"
+       y2="-25.597416"
+       id="linearGradient3846"
+       xlink:href="#linearGradient3766"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <metadata
+     id="metadata3021">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-1.501715,-840.86946)"
+     id="g4422"
+     style="display:inline" />
+  <g
+     transform="translate(-1.501715,-840.86946)"
+     id="g4418"
+     style="display:inline" />
+  <g
+     transform="translate(-1.501715,-840.86946)"
+     id="g4410"
+     style="display:inline" />
+  <g
+     transform="translate(-1.501715,-840.86946)"
+     id="layer1"
+     style="display:inline">
+    <path
+       d="m 220,127 a 55,55 0 1 1 -110,0 55,55 0 1 1 110,0 z"
+       transform="matrix(1.6401495,0,0,1.6401495,-169.12295,732.57047)"
+       id="path3032"
+       style="fill:#1e4451;fill-opacity:1;stroke:#29ace2;stroke-width:7.06277084;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <path
+       d="m 220,127 a 55,55 0 1 1 -110,0 55,55 0 1 1 110,0 z"
+       transform="matrix(1.6401495,0,0,1.6401495,-169.12295,732.57047)"
+       id="path3796"
+       style="fill:#1e4451;fill-opacity:1;stroke:#29ace2;stroke-width:7.06277084;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+  </g>
+  <g
+     transform="translate(-1.501715,-840.86946)"
+     id="g4414"
+     style="display:inline">
+    <flowRoot
+       transform="translate(120.3689,966.46002)"
+       id="flowRoot4745"
+       xml:space="preserve"
+       style="font-size:130px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#83c61a;fill-opacity:1;stroke:none;display:inline;font-family:Artifika;-inkscape-font-specification:Artifika Medium"><flowRegion
+         id="flowRegion4747"
+         style="fill:url(#linearGradient3846);fill-opacity:1"><rect
+           width="133.92999"
+           height="205.50803"
+           x="-60"
+           y="-110"
+           id="rect4749"
+           style="font-size:130px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#83c61a;fill-opacity:1;stroke:none;font-family:Artifika;-inkscape-font-specification:Artifika Medium" /></flowRegion><flowPara
+         id="flowPara4751"
+         style="fill:#83c61a;fill-opacity:1;stroke:none">E</flowPara></flowRoot>  </g>
+</svg>
