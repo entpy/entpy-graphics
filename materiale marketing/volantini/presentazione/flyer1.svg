@@ -13,7 +13,7 @@
    height="2763.7795"
    id="svg5571"
    version="1.1"
-   inkscape:version="0.48.1 r9760"
+   inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="flyer1.svg">
   <defs
      id="defs5573">
@@ -64,17 +64,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0824912"
-     inkscape:cx="910.23861"
-     inkscape:cy="934.13567"
+     inkscape:zoom="0.76543687"
+     inkscape:cx="535.26756"
+     inkscape:cy="2005.6532"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="mm"
-     inkscape:window-width="1440"
-     inkscape:window-height="841"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-width="1375"
+     inkscape:window-height="876"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      fit-margin-top="100"
      fit-margin-left="10"
@@ -4324,7 +4324,7 @@
              transform="translate(0,549.62451)">
             <rect
                rx="2.7920821"
-               y="706.76434"
+               y="704.76434"
                x="104.06007"
                height="24"
                width="170.918"
@@ -4333,12 +4333,12 @@
             <text
                sodipodi:linespacing="125%"
                id="text5687"
-               y="724.83673"
+               y="722.83673"
                x="131.4604"
                style="font-size:15.81654644px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#29ace2;fill-opacity:1;stroke:none;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold"
                xml:space="preserve"><tspan
                  id="tspan5689"
-                 y="724.83673"
+                 y="722.83673"
                  x="131.4604"
                  sodipodi:role="line"
                  style="font-size:16px;font-weight:bold;text-align:start;text-anchor:start;fill:#29ace2;fill-opacity:1;-inkscape-font-specification:Sawasdee Bold">Software House</tspan></text>
@@ -4590,7 +4590,7 @@
              height="24"
              width="170.918"
              id="rect4278"
-             style="fill:#175b6f;fill-opacity:0.72156863;stroke:none" />
+             style="fill:#3c7586;fill-opacity:1;stroke:none" />
           <text
              sodipodi:linespacing="125%"
              id="text5529"
@@ -4648,7 +4648,7 @@
            height="109.48516"
            width="282.92322"
            id="rect4314"
-           style="fill:#175b6f;fill-opacity:0.72156863;stroke:none" />
+           style="fill:#175b6f;fill-opacity:0.8392157;stroke:none" />
       </g>
       <text
          xml:space="preserve"
@@ -4763,7 +4763,7 @@
          transform="translate(-0.04789706,0)"
          id="g4459">
         <rect
-           style="fill:#175b6f;fill-opacity:0.72030652;stroke:none"
+           style="fill:#175b6f;fill-opacity:0.84063745;stroke:none"
            id="rect4054"
            width="305.0661"
            height="74.751297"
@@ -8054,53 +8054,52 @@
          id="tspan6399"
          sodipodi:role="line">Volantini con la promozione</tspan></text>
     <g
-       id="g5629"
-       transform="translate(14,-69.71979)">
+       id="g6949">
       <rect
          rx="4.836298"
-         y="2205.3257"
-         x="41.491386"
+         y="2135.606"
+         x="55.491386"
          height="157.35249"
          width="296.05521"
          id="rect6329"
          style="fill:#175b6f;fill-opacity:0.72156863;stroke:none" />
       <g
-         transform="translate(0,-64.595675)"
-         id="g7616">
+         transform="translate(0,2.9480265)"
+         id="g6928">
         <text
            xml:space="preserve"
            style="font-size:15.81654644px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold"
-           x="98.413033"
-           y="2252.5076"
+           x="112.41303"
+           y="2118.1921"
            id="text4091"
            sodipodi:linespacing="125%"><tspan
              style="font-weight:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sawasdee"
              sodipodi:role="line"
-             x="98.413033"
-             y="2252.5076"
+             x="112.41303"
+             y="2118.1921"
              id="tspan4093" /><tspan
              style="font-size:14px;font-weight:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sawasdee"
              sodipodi:role="line"
-             x="98.413033"
-             y="2272.2783"
+             x="112.41303"
+             y="2137.9629"
              id="tspan4095" /><tspan
              style="font-size:14px;font-weight:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sawasdee"
              sodipodi:role="line"
-             x="98.413033"
-             y="2290.4595"
+             x="112.41303"
+             y="2156.144"
              id="tspan4097">Questa è un'offerta <tspan
    style="font-size:14px;font-weight:bold;-inkscape-font-specification:Sawasdee Bold"
    id="tspan6509">LIMITATA</tspan></tspan><tspan
              style="font-size:14px;font-weight:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sawasdee"
              sodipodi:role="line"
-             x="98.413033"
-             y="2308.0598"
+             x="112.41303"
+             y="2173.7444"
              id="tspan4099">per poter usufruire di uno</tspan></text>
         <g
            id="g6462"
-           transform="translate(4.3701174e-7,71.651688)">
+           transform="translate(14,-62.740625)">
           <rect
-             style="fill:#175b6f;fill-opacity:0.72156864;stroke:none"
+             style="fill:#0d333f;fill-opacity:1;stroke:none"
              id="rect6309"
              width="204.25304"
              height="41.172592"
@@ -8110,297 +8109,57 @@
           <text
              xml:space="preserve"
              style="font-size:15.81654644px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold"
-             x="189.15401"
-             y="2236.8247"
+             x="189.2016"
+             y="2238.3411"
              id="text4101"
              sodipodi:linespacing="125%"><tspan
                style="font-weight:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sawasdee"
                sodipodi:role="line"
-               x="189.15401"
-               y="2236.8247"
+               x="189.2016"
+               y="2238.3411"
                id="tspan4103" /><tspan
                style="font-size:16px;font-weight:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sawasdee"
                sodipodi:role="line"
-               x="189.15401"
-               y="2256.5955"
+               x="189.2016"
+               y="2258.1118"
                id="tspan4105" /><tspan
                style="font-size:20px;font-weight:bold;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sawasdee Bold"
                sodipodi:role="line"
-               x="189.15401"
-               y="2279.9155"
+               x="189.2016"
+               y="2281.4319"
                id="tspan4107">sconto del 30%</tspan></text>
         </g>
         <text
            sodipodi:linespacing="125%"
            id="text4109"
-           y="2352.8276"
-           x="66.154243"
+           y="2218.5122"
+           x="80.154243"
            style="font-size:15.81654644px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold"
            xml:space="preserve"><tspan
              id="tspan4111"
-             y="2352.8276"
-             x="66.154243"
+             y="2218.5122"
+             x="80.154243"
              sodipodi:role="line"
              style="font-weight:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sawasdee" /><tspan
              id="tspan4113"
-             y="2372.5984"
-             x="66.154243"
+             y="2238.283"
+             x="80.154243"
              sodipodi:role="line"
              style="font-size:14px;font-weight:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sawasdee" /><tspan
-             y="2390.7795"
-             x="66.154243"
+             y="2256.4641"
+             x="80.154243"
              sodipodi:role="line"
              style="font-size:14px;font-weight:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sawasdee"
              id="tspan4115">su un <tspan
    style="font-weight:bold;-inkscape-font-specification:Sawasdee Bold"
    id="tspan5671">sito web</tspan> fatto da noi, comunicaci</tspan><tspan
              id="tspan4117"
-             y="2408.3799"
-             x="66.154243"
+             y="2274.0645"
+             x="80.154243"
              sodipodi:role="line"
              style="font-size:14px;font-weight:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sawasdee">vie email il <tspan
    style="font-size:14px;font-weight:bold;-inkscape-font-specification:Sawasdee Bold"
    id="tspan7279">CODICE</tspan> presente sul retro.</tspan></text>
-      </g>
-    </g>
-    <rect
-       style="fill:#175b6f;fill-opacity:0.72030652;stroke:none"
-       id="rect7334"
-       width="305.0661"
-       height="267.69043"
-       x="1030.3584"
-       y="2080.4368"
-       rx="4.9834981" />
-    <g
-       id="g5850"
-       transform="translate(406.64666,-65.517066)">
-      <text
-         xml:space="preserve"
-         style="font-size:15.81654644px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#0d333f;fill-opacity:1;stroke:none;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold"
-         x="692.64105"
-         y="2392.0708"
-         id="text7342"
-         sodipodi:linespacing="125%"><tspan
-           style="font-size:12px;font-weight:bold;text-align:start;text-anchor:start;fill:#0d333f;fill-opacity:1;-inkscape-font-specification:Sawasdee Bold"
-           sodipodi:role="line"
-           x="692.64105"
-           y="2392.0708"
-           id="tspan7344">Codice</tspan></text>
-      <rect
-         rx="1.8894391"
-         y="2375.0698"
-         x="743.61169"
-         height="25.253807"
-         width="115.6625"
-         id="rect7348"
-         style="fill:#175b6f;fill-opacity:0.72156863;stroke:none" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text7350"
-         y="2392.0649"
-         x="785.57574"
-         style="font-size:15.81654644px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold"
-         xml:space="preserve"><tspan
-           id="tspan7352"
-           y="2392.0649"
-           x="785.57574"
-           sodipodi:role="line"
-           style="font-size:12px;font-weight:bold;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sawasdee Bold">I7SD6</tspan></text>
-    </g>
-    <g
-       id="g5858"
-       transform="translate(411.15885,-65.517066)">
-      <text
-         sodipodi:linespacing="125%"
-         id="text7425"
-         y="2320.2971"
-         x="706.30676"
-         style="font-size:15.81654644px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold"
-         xml:space="preserve"><tspan
-           id="tspan7447"
-           y="2320.2971"
-           x="706.30676"
-           sodipodi:role="line"
-           style="font-size:12px;font-weight:bold;text-align:start;text-anchor:start;fill:#0d333f;fill-opacity:1;-inkscape-font-specification:Sawasdee Bold">Come redimere l'offerta</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:15.81654644px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold"
-         x="664.20325"
-         y="2335.2761"
-         id="text7497"
-         sodipodi:linespacing="125%"><tspan
-           style="font-size:10px;font-weight:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sawasdee"
-           sodipodi:role="line"
-           x="664.20325"
-           y="2335.2761"
-           id="tspan7501">A seguito di un preventivo <tspan
-   id="tspan5114"
-   style="font-weight:bold">GRATUITO</tspan>,</tspan><tspan
-           id="tspan5106"
-           style="font-size:10px;font-weight:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sawasdee"
-           sodipodi:role="line"
-           x="664.20325"
-           y="2347.8479">comunicaci il codice promozionale per ottenere </tspan><tspan
-           id="tspan5110"
-           style="font-size:10px;font-weight:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sawasdee"
-           sodipodi:role="line"
-           x="664.20325"
-           y="2360.3479"><tspan
-   id="tspan5116"
-   style="font-weight:bold">30%</tspan> di sconto su un sito web fatto da noi.</tspan></text>
-    </g>
-    <g
-       id="g5910"
-       transform="translate(411.15885,-65.517066)">
-      <g
-         id="g7540"
-         transform="translate(577.85519,1446.2193)">
-        <text
-           sodipodi:linespacing="125%"
-           id="text7544"
-           y="724.83673"
-           x="131.4604"
-           style="font-size:15.81654644px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0d333f;fill-opacity:1;stroke:none;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold"
-           xml:space="preserve"><tspan
-             id="tspan7546"
-             y="724.83673"
-             x="131.4604"
-             sodipodi:role="line"
-             style="font-size:16px;font-weight:bold;text-align:start;text-anchor:start;fill:#0d333f;fill-opacity:1;-inkscape-font-specification:Sawasdee Bold">Software House</tspan></text>
-      </g>
-      <g
-         id="g5900">
-        <rect
-           style="fill:#175b6f;fill-opacity:0.72156863;stroke:none"
-           id="rect5726"
-           width="260"
-           height="55.556282"
-           x="641.73254"
-           y="2179.0562"
-           rx="4.2473068" />
-        <text
-           xml:space="preserve"
-           style="font-size:15.81654644px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold"
-           x="771.72668"
-           y="2158.8047"
-           id="text7548"
-           sodipodi:linespacing="125%"><tspan
-             style="font-weight:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sawasdee"
-             sodipodi:role="line"
-             x="771.72668"
-             y="2158.8047"
-             id="tspan7550" /><tspan
-             style="font-size:16px;font-weight:bold;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sawasdee Bold"
-             sodipodi:role="line"
-             x="771.72668"
-             y="2178.5754"
-             id="tspan7552" /><tspan
-             style="font-size:12px;font-weight:bold;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sawasdee Bold"
-             sodipodi:role="line"
-             x="771.72668"
-             y="2194.9397"
-             id="tspan7558">Siti e piattaforme web</tspan><tspan
-             style="font-size:12px;font-weight:bold;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sawasdee Bold"
-             sodipodi:role="line"
-             x="771.72668"
-             y="2209.9397"
-             id="tspan5747">Android App</tspan><tspan
-             style="font-size:12px;font-weight:bold;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sawasdee Bold"
-             sodipodi:role="line"
-             x="771.72668"
-             y="2224.9397"
-             id="tspan5749">iPhone App</tspan><tspan
-             style="font-size:16px;font-weight:bold;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sawasdee Bold"
-             sodipodi:role="line"
-             x="771.72668"
-             y="2239.9397"
-             id="tspan7560" /></text>
-      </g>
-    </g>
-    <g
-       id="g5880"
-       transform="translate(411.15885,-65.517066)">
-      <g
-         id="g5868">
-        <rect
-           rx="1.8875718"
-           y="2260.2886"
-           x="641.73254"
-           height="26.26186"
-           width="115.54819"
-           id="rect5834"
-           style="fill:#175b6f;fill-opacity:0.72030652;stroke:none" />
-        <g
-           id="g5605"
-           transform="translate(-2.9828644,29.194407)">
-          <text
-             xml:space="preserve"
-             style="font-size:15.81654644px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold"
-             x="667.82544"
-             y="2248.7983"
-             id="text6385"
-             sodipodi:linespacing="125%"><tspan
-               style="font-size:12px;font-weight:bold;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sawasdee Bold"
-               sodipodi:role="line"
-               x="667.82544"
-               y="2248.7983"
-               id="tspan6387">3495598035</tspan></text>
-        </g>
-      </g>
-      <text
-         sodipodi:linespacing="125%"
-         id="text6377"
-         y="2254.6909"
-         x="676.66974"
-         style="font-size:15.81654644px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#0d333f;fill-opacity:1;stroke:none;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold"
-         xml:space="preserve"><tspan
-           id="tspan6379"
-           y="2254.6909"
-           x="676.66974"
-           sodipodi:role="line"
-           style="font-size:12px;font-weight:bold;text-align:start;text-anchor:start;fill:#0d333f;fill-opacity:1;-inkscape-font-specification:Sawasdee Bold">Telefono</tspan></text>
-    </g>
-    <g
-       id="g5890"
-       transform="translate(411.15885,-65.517066)">
-      <text
-         xml:space="preserve"
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#0d333f;fill-opacity:1;stroke:none;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold"
-         x="830.10394"
-         y="2254.6792"
-         id="text6373"
-         sodipodi:linespacing="125%"><tspan
-           style="font-size:12px;font-weight:bold;text-align:start;text-anchor:start;fill:#0d333f;fill-opacity:1;-inkscape-font-specification:Sawasdee Bold"
-           sodipodi:role="line"
-           x="830.10394"
-           y="2254.6792"
-           id="tspan6375">Email</tspan></text>
-      <g
-         id="g5874">
-        <rect
-           style="fill:#175b6f;fill-opacity:0.72030652;stroke:none"
-           id="rect5832"
-           width="115.54819"
-           height="26.26186"
-           x="786.18433"
-           y="2260.2886"
-           rx="1.8875718" />
-        <g
-           id="g5610"
-           transform="translate(-10.511429,28.930735)">
-          <text
-             sodipodi:linespacing="125%"
-             id="text6393"
-             y="2247.48"
-             x="808.16907"
-             style="font-size:15.81654644px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold"
-             xml:space="preserve"><tspan
-               id="tspan6395"
-               y="2247.48"
-               x="808.16907"
-               sodipodi:role="line"
-               style="font-size:12px;font-weight:bold;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sawasdee Bold"> info@entpy.com </tspan></text>
-        </g>
       </g>
     </g>
     <g
@@ -9837,250 +9596,234 @@
         </g>
       </g>
     </g>
+    <rect
+       style="fill:#175b6f;fill-opacity:0.72156863;stroke:none"
+       id="rect5632"
+       width="305.0661"
+       height="274.22266"
+       x="633.19952"
+       y="2080.4368"
+       rx="4.9834981" />
+    <text
+       xml:space="preserve"
+       style="font-size:15.81654644px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0d333f;fill-opacity:1;stroke:none;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold"
+       x="729.98065"
+       y="2223.7136"
+       id="text5648"
+       sodipodi:linespacing="125%"><tspan
+         style="font-size:10px;font-weight:bold;text-align:start;text-anchor:start;fill:#0d333f;fill-opacity:1;-inkscape-font-specification:Sawasdee Bold"
+         sodipodi:role="line"
+         x="729.98065"
+         y="2223.7136"
+         id="tspan5650">Come redimere l'offerta:</tspan><tspan
+         style="font-size:12px;font-weight:normal;text-align:start;text-anchor:start;fill:#0d333f;fill-opacity:1;-inkscape-font-specification:Sawasdee"
+         sodipodi:role="line"
+         x="729.98065"
+         y="2236.2136"
+         id="tspan5652" /></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5674"
+       y="2104.8027"
+       x="734.93127"
+       style="font-size:15.81654644px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0d333f;fill-opacity:1;stroke:none;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold"
+       xml:space="preserve"><tspan
+         id="tspan5676"
+         y="2104.8027"
+         x="734.93127"
+         sodipodi:role="line"
+         style="font-size:14px;font-weight:bold;text-align:start;text-anchor:start;fill:#0d333f;fill-opacity:1;-inkscape-font-specification:Sawasdee Bold">Software House</tspan></text>
     <g
-       id="g5630"
-       transform="translate(4.1596225,-561.9433)">
+       id="g5680"
+       transform="translate(4.159592,-562.67983)">
       <rect
-         rx="4.9834981"
-         y="2642.3801"
-         x="629.03992"
-         height="267.69043"
-         width="305.0661"
-         id="rect5632"
-         style="fill:#175b6f;fill-opacity:0.72156864;stroke:none" />
-      <g
-         id="g5634"
-         transform="translate(-3.0517578e-5,-0.73653174)">
-        <g
-           transform="translate(-8.1283684,-7.1153245)"
-           id="g5636">
-          <text
-             xml:space="preserve"
-             style="font-size:15.81654644px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#29ace2;fill-opacity:1;stroke:none;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold"
-             x="706.14551"
-             y="2896.5103"
-             id="text5638"
-             sodipodi:linespacing="125%"><tspan
-               style="font-size:10px;font-weight:bold;text-align:start;text-anchor:start;fill:#29ace2;fill-opacity:1;-inkscape-font-specification:Sawasdee Bold"
-               sodipodi:role="line"
-               x="706.14551"
-               y="2896.5103"
-               id="tspan5640">Codice</tspan></text>
-          <rect
-             rx="1.8894391"
-             y="2881.8652"
-             x="757.11615"
-             height="22"
-             width="115.6625"
-             id="rect5642"
-             style="fill:#175b6f;fill-opacity:0.72156863;stroke:none" />
-          <text
-             sodipodi:linespacing="125%"
-             id="text5644"
-             y="2896.8694"
-             x="798.36145"
-             style="font-size:15.81654644px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold"
-             xml:space="preserve"><tspan
-               id="tspan5646"
-               y="2896.8694"
-               x="798.36145"
-               sodipodi:role="line"
-               style="font-size:11px;font-weight:bold;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sawasdee Bold">P73D6</tspan></text>
-        </g>
-        <text
-           xml:space="preserve"
-           style="font-size:15.81654644px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold"
-           x="725.82104"
-           y="2791.9929"
-           id="text5648"
-           sodipodi:linespacing="125%"><tspan
-             style="font-size:10px;font-weight:bold;text-align:start;text-anchor:start;fill:#29ace2;fill-opacity:1;-inkscape-font-specification:Sawasdee Bold"
-             sodipodi:role="line"
-             x="725.82104"
-             y="2791.9929"
-             id="tspan5650">Come redimere l'offerta:</tspan><tspan
-             style="font-size:12px;font-weight:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sawasdee"
-             sodipodi:role="line"
-             x="725.82104"
-             y="2804.4929"
-             id="tspan5652" /></text>
-        <text
-           sodipodi:linespacing="125%"
-           id="text5654"
-           y="2805.4714"
-           x="650.93823"
-           style="font-size:15.81654644px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold"
-           xml:space="preserve"><tspan
-             y="2805.4714"
-             x="650.93823"
-             sodipodi:role="line"
-             style="font-size:10px;font-weight:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sawasdee"
-             id="tspan5656">Mandaci una email indicando il tipo di attività svolta, </tspan><tspan
-             id="tspan5658"
-             y="2817.9714"
-             x="650.93823"
-             sodipodi:role="line"
-             style="font-size:10px;font-weight:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sawasdee">valuteremo <tspan
-   id="tspan5660"
-   style="font-weight:bold">GRATUITAMENTE</tspan> la soluzione più adatta a te </tspan><tspan
-             id="tspan5662"
-             y="2830.5432"
-             x="650.93823"
-             sodipodi:role="line"
-             style="font-size:10px;font-weight:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sawasdee">per acquisire nuovi clienti e incrementare il tuo business.</tspan><tspan
-             id="tspan5664"
-             y="2843.0432"
-             x="650.93823"
-             sodipodi:role="line"
-             style="font-size:10px;font-weight:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sawasdee">Il codice promozionale seguente, ti permetterà di ottenere </tspan><tspan
-             id="tspan5666"
-             y="2855.5432"
-             x="650.93823"
-             sodipodi:role="line"
-             style="font-size:10px;font-weight:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sawasdee">uno sconto del <tspan
-   id="tspan5668"
-   style="font-weight:bold">30%</tspan> sulla soluzione da noi proposta.</tspan><tspan
-             id="tspan5670"
-             y="2868.115"
-             x="650.93823"
-             sodipodi:role="line"
-             style="font-size:10px;font-weight:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sawasdee" /></text>
-        <g
-           transform="translate(599.31126,1942.6457)"
-           id="g5672">
-          <text
-             xml:space="preserve"
-             style="font-size:15.81654644px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#29ace2;fill-opacity:1;stroke:none;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold"
-             x="131.4604"
-             y="724.83673"
-             id="text5674"
-             sodipodi:linespacing="125%"><tspan
-               style="font-size:14px;font-weight:bold;text-align:start;text-anchor:start;fill:#29ace2;fill-opacity:1;-inkscape-font-specification:Sawasdee Bold"
-               sodipodi:role="line"
-               x="131.4604"
-               y="724.83673"
-               id="tspan5676">Software House</tspan></text>
-        </g>
-        <g
-           id="g5678">
-          <g
-             id="g5680">
-            <rect
-               style="fill:#175b6f;fill-opacity:0.72030652;stroke:none"
-               id="rect5682"
-               width="260"
-               height="41.414146"
-               x="651.57294"
-               y="2675.4824"
-               rx="4.2473068" />
-            <text
-               xml:space="preserve"
-               style="font-size:15.81654644px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold"
-               x="781.57562"
-               y="2656.8955"
-               id="text5684"
-               sodipodi:linespacing="125%"><tspan
-                 style="font-weight:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sawasdee"
-                 sodipodi:role="line"
-                 x="781.57562"
-                 y="2656.8955"
-                 id="tspan5686" /><tspan
-                 style="font-size:16px;font-weight:bold;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sawasdee Bold"
-                 sodipodi:role="line"
-                 x="781.57562"
-                 y="2676.6663"
-                 id="tspan5688" /><tspan
-                 style="font-size:11px;font-weight:bold;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sawasdee Bold"
-                 sodipodi:role="line"
-                 x="781.57562"
-                 y="2692.1611"
-                 id="tspan5690">Siti, piattaforme web, strumenti di acquisizione</tspan><tspan
-                 style="font-size:11px;font-weight:bold;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sawasdee Bold"
-                 sodipodi:role="line"
-                 x="781.57562"
-                 y="2705.9111"
-                 id="tspan5692">Android App, iPhone App</tspan></text>
-          </g>
-        </g>
-        <g
-           id="g5694">
-          <rect
-             style="fill:#175b6f;fill-opacity:0.72030652;stroke:none"
-             id="rect5696"
-             width="115.54819"
-             height="22"
-             x="651.573"
-             y="2741.3201"
-             rx="1.8875718" />
-          <g
-             transform="translate(9.7462616,507.71387)"
-             id="g5698">
-            <text
-               sodipodi:linespacing="125%"
-               id="text5700"
-               y="2248.7983"
-               x="667.82544"
-               style="font-size:15.81654644px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold"
-               xml:space="preserve"><tspan
-                 id="tspan5702"
-                 y="2248.7983"
-                 x="667.82544"
-                 sodipodi:role="line"
-                 style="font-size:11px;font-weight:bold;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sawasdee Bold">3495598035</tspan></text>
-          </g>
-        </g>
-        <text
-           xml:space="preserve"
-           style="font-size:15.81654644px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#29ace2;fill-opacity:1;stroke:none;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold"
-           x="690.31635"
-           y="2735.3496"
-           id="text5704"
-           sodipodi:linespacing="125%"><tspan
-             style="font-size:10px;font-weight:bold;text-align:start;text-anchor:start;fill:#29ace2;fill-opacity:1;-inkscape-font-specification:Sawasdee Bold"
-             sodipodi:role="line"
-             x="690.31635"
-             y="2735.3496"
-             id="tspan5706">Telefono</tspan></text>
-        <text
-           sodipodi:linespacing="125%"
-           id="text5708"
-           y="2735.3496"
-           x="842.25348"
-           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#29ace2;fill-opacity:1;stroke:none;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold"
-           xml:space="preserve"><tspan
-             id="tspan5710"
-             y="2735.3496"
-             x="842.25348"
-             sodipodi:role="line"
-             style="font-size:10px;font-weight:bold;text-align:start;text-anchor:start;fill:#29ace2;fill-opacity:1;-inkscape-font-specification:Sawasdee Bold">Email</tspan></text>
-        <g
-           id="g5712">
-          <rect
-             rx="1.8875718"
-             y="2741.3201"
-             x="796.02478"
-             height="22"
-             width="115.54819"
-             id="rect5714"
-             style="fill:#175b6f;fill-opacity:0.72030652;stroke:none" />
-          <g
-             transform="translate(3.1873731,507.58198)"
-             id="g5716">
-            <text
-               xml:space="preserve"
-               style="font-size:15.81654644px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold"
-               x="808.16913"
-               y="2247.48"
-               id="text5718"
-               sodipodi:linespacing="125%"><tspan
-                 style="font-size:11px;font-weight:bold;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sawasdee Bold"
-                 sodipodi:role="line"
-                 x="808.16913"
-                 y="2247.48"
-                 id="tspan5720"> info@entpy.com </tspan></text>
-          </g>
-        </g>
-      </g>
+         rx="4.2473068"
+         y="2675.4824"
+         x="651.57294"
+         height="41.414146"
+         width="260"
+         id="rect5682"
+         style="fill:#0d333f;fill-opacity:1;stroke:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5684"
+         y="2656.8955"
+         x="781.57562"
+         style="font-size:15.81654644px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold"
+         xml:space="preserve"><tspan
+           id="tspan5686"
+           y="2656.8955"
+           x="781.57562"
+           sodipodi:role="line"
+           style="font-weight:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sawasdee" /><tspan
+           id="tspan5688"
+           y="2676.6663"
+           x="781.57562"
+           sodipodi:role="line"
+           style="font-size:16px;font-weight:bold;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sawasdee Bold" /><tspan
+           id="tspan5690"
+           y="2692.1611"
+           x="781.57562"
+           sodipodi:role="line"
+           style="font-size:11px;font-weight:bold;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sawasdee Bold">Siti, piattaforme web, strumenti di acquisizione</tspan><tspan
+           id="tspan5692"
+           y="2705.9111"
+           x="781.57562"
+           sodipodi:role="line"
+           style="font-size:11px;font-weight:bold;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sawasdee Bold">Android App, iPhone App</tspan></text>
     </g>
+    <rect
+       rx="1.8875718"
+       y="2178.6401"
+       x="655.7326"
+       height="22"
+       width="115.54819"
+       id="rect5696"
+       style="fill:#0d333f;fill-opacity:1;stroke:none" />
+    <g
+       id="g5698"
+       transform="translate(13.905854,-54.96596)">
+      <text
+         xml:space="preserve"
+         style="font-size:15.81654644px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold"
+         x="667.82544"
+         y="2248.7983"
+         id="text5700"
+         sodipodi:linespacing="125%"><tspan
+           style="font-size:11px;font-weight:bold;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sawasdee Bold"
+           sodipodi:role="line"
+           x="667.82544"
+           y="2248.7983"
+           id="tspan5702">3495598035</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:15.81654644px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#0d333f;fill-opacity:1;stroke:none;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold"
+       x="694.47595"
+       y="2172.6697"
+       id="text5704"
+       sodipodi:linespacing="125%"><tspan
+         style="font-size:10px;font-weight:bold;text-align:start;text-anchor:start;fill:#0d333f;fill-opacity:1;-inkscape-font-specification:Sawasdee Bold"
+         sodipodi:role="line"
+         x="694.47595"
+         y="2172.6697"
+         id="tspan5706">Telefono</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5708"
+       y="2172.6697"
+       x="846.41309"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#0d333f;fill-opacity:1;stroke:none;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold"
+       xml:space="preserve"><tspan
+         id="tspan5710"
+         y="2172.6697"
+         x="846.41309"
+         sodipodi:role="line"
+         style="font-size:10px;font-weight:bold;text-align:start;text-anchor:start;fill:#0d333f;fill-opacity:1;-inkscape-font-specification:Sawasdee Bold">Email</tspan></text>
+    <rect
+       style="fill:#0d333f;fill-opacity:1;stroke:none"
+       id="rect5714"
+       width="115.54819"
+       height="22"
+       x="800.18439"
+       y="2178.6401"
+       rx="1.8875718" />
+    <g
+       id="g5716"
+       transform="translate(7.3469651,-55.09785)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text5718"
+         y="2247.48"
+         x="808.16913"
+         style="font-size:15.81654644px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold"
+         xml:space="preserve"><tspan
+           id="tspan5720"
+           y="2247.48"
+           x="808.16913"
+           sodipodi:role="line"
+           style="font-size:11px;font-weight:bold;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sawasdee Bold"> info@entpy.com </tspan></text>
+    </g>
+    <rect
+       style="fill:#ffffff;fill-opacity:0.62151396;stroke:none"
+       id="rect7084"
+       width="287.34549"
+       height="114.75749"
+       x="642.05988"
+       y="2229.5913"
+       rx="4.6940179" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text5654"
+       y="2248.1987"
+       x="655.09784"
+       style="font-size:15.81654643999999976px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0d333f;fill-opacity:1;stroke:none;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold"
+       xml:space="preserve"><tspan
+         y="2248.1987"
+         x="655.09784"
+         sodipodi:role="line"
+         style="font-size:10px;font-weight:normal;text-align:start;text-anchor:start;fill:#0d333f;fill-opacity:1;-inkscape-font-specification:Sawasdee"
+         id="tspan5656">Mandaci una email indicando il tipo di attività svolta, </tspan><tspan
+         id="tspan5658"
+         y="2260.6987"
+         x="655.09784"
+         sodipodi:role="line"
+         style="font-size:10px;font-weight:normal;text-align:start;text-anchor:start;fill:#0d333f;fill-opacity:1;-inkscape-font-specification:Sawasdee">valuteremo <tspan
+   id="tspan5660"
+   style="font-weight:bold;fill:#0d333f;fill-opacity:1">GRATUITAMENTE</tspan> la soluzione più adatta a te </tspan><tspan
+         id="tspan5662"
+         y="2273.2705"
+         x="655.09784"
+         sodipodi:role="line"
+         style="font-size:10px;font-weight:normal;text-align:start;text-anchor:start;fill:#0d333f;fill-opacity:1;-inkscape-font-specification:Sawasdee">per acquisire nuovi clienti e incrementare il tuo business.</tspan><tspan
+         id="tspan5664"
+         y="2285.7705"
+         x="655.09784"
+         sodipodi:role="line"
+         style="font-size:10px;font-weight:normal;text-align:start;text-anchor:start;fill:#0d333f;fill-opacity:1;-inkscape-font-specification:Sawasdee">Il codice promozionale seguente, ti permetterà di ottenere </tspan><tspan
+         id="tspan5666"
+         y="2298.2705"
+         x="655.09784"
+         sodipodi:role="line"
+         style="font-size:10px;font-weight:normal;text-align:start;text-anchor:start;fill:#0d333f;fill-opacity:1;-inkscape-font-specification:Sawasdee">uno sconto del <tspan
+   id="tspan5668"
+   style="font-weight:bold;fill:#0d333f;fill-opacity:1">30%</tspan> sulla soluzione da noi proposta.</tspan><tspan
+         id="tspan5670"
+         y="2310.8423"
+         x="655.09784"
+         sodipodi:role="line"
+         style="font-size:10px;font-weight:normal;text-align:start;text-anchor:start;fill:#0d333f;fill-opacity:1;-inkscape-font-specification:Sawasdee" /></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5638"
+       y="2327.0417"
+       x="702.17676"
+       style="font-size:15.81654643999999976px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#0d333f;fill-opacity:1;stroke:none;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold"
+       xml:space="preserve"><tspan
+         id="tspan5640"
+         y="2327.0417"
+         x="702.17676"
+         sodipodi:role="line"
+         style="font-size:10px;font-weight:bold;text-align:start;text-anchor:start;fill:#0d333f;fill-opacity:1;-inkscape-font-specification:Sawasdee Bold">Codice</tspan></text>
+    <rect
+       style="fill:#0d333f;fill-opacity:1;stroke:none"
+       id="rect5642"
+       width="115.6625"
+       height="22"
+       x="753.1474"
+       y="2312.3967"
+       rx="1.8894391" />
+    <text
+       xml:space="preserve"
+       style="font-size:15.81654643999999976px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold"
+       x="794.3927"
+       y="2327.4009"
+       id="text5644"
+       sodipodi:linespacing="125%"><tspan
+         style="font-size:11px;font-weight:bold;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sawasdee Bold"
+         sodipodi:role="line"
+         x="794.3927"
+         y="2327.4009"
+         id="tspan5646">P73D6</tspan></text>
   </g>
 </svg>
