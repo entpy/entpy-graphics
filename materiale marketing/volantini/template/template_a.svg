@@ -13,8 +13,8 @@
    height="492.51968"
    id="svg5571"
    version="1.1"
-   inkscape:version="0.48.1 r9760"
-   sodipodi:docname="flyer1_front.svg">
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="template_a.svg">
   <defs
      id="defs5573">
     <filter
@@ -38,17 +38,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.919596"
-     inkscape:cx="252.7706"
-     inkscape:cy="20.673273"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="358.69131"
+     inkscape:cy="43.282882"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="mm"
-     inkscape:window-width="1440"
-     inkscape:window-height="841"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-width="1375"
+     inkscape:window-height="876"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata5576">
@@ -99,12 +99,12 @@
     <path
        inkscape:connector-curvature="0"
        id="path5091"
-       d="m -0.04796,560.30796 379.1339,0 0,492.51984 -379.1339,0 z"
+       d="m -2.4951172e-5,559.84235 379.133904951172,0 0,492.51985 -379.133904951172,0 z"
        style="fill:#0d333f;fill-opacity:1;fill-rule:nonzero;stroke:none" />
     <path
        inkscape:connector-curvature="0"
        style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m -0.04796,560.30806 0,433.85335 c 12.2931,-7.6211 31.5911,-7.4146 45.5397,5.4488 6.4574,5.95509 25.5366,3.33249 35.5026,3.33249 56.4479,0 93.1901,5.0105 106.0598,49.885 l 131.7122,0 c -0.2634,-2.2203 -0.4013,-4.4734 -0.4013,-6.7531 0,-31.6436 25.9958,-58.09649 60.7209,-64.59699 l 0,-421.16955 z"
+       d="m -2.4951172e-5,559.84253 0,433.85335 C 12.293075,986.07478 31.591075,986.28128 45.539675,999.14468 c 6.4574,5.95512 25.5366,3.33252 35.5026,3.33252 56.447905,0 93.190105,5.0105 106.059805,49.885 l 131.7122,0 c -0.2634,-2.2203 -0.4013,-4.4734 -0.4013,-6.7531 0,-31.6436 25.9958,-58.09652 60.7209,-64.59702 l 0,-421.16955 z"
        id="path5093"
        sodipodi:nodetypes="ccssccsccc" />
     <rect
@@ -917,7 +917,7 @@
          y="1022.438">www.entpy.com</tspan></text>
     <g
        id="g5485"
-       transform="matrix(0.27980667,0,0,0.27980667,74.146672,585.04985)">
+       transform="matrix(0.24331015,0,0,0.24331015,89.201487,587.11232)">
       <g
          transform="translate(2.250338e-4,-847.36239)"
          id="g5487"
@@ -1034,55 +1034,6 @@
            transform="matrix(1.6401495,0,0,1.6401495,-173.12273,736.57026)" />
       </g>
     </g>
-    <text
-       xml:space="preserve"
-       style="font-size:15.81654644px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold"
-       x="131.50833"
-       y="724.31512"
-       id="text5529"
-       sodipodi:linespacing="125%"><tspan
-         style="font-size:16px;font-weight:bold;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;-inkscape-font-specification:Sawasdee Bold"
-         sodipodi:role="line"
-         x="131.50833"
-         y="724.31512"
-         id="tspan5531">Software House</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text5533"
-       y="710.11969"
-       x="110.14114"
-       style="font-size:15.81654644px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold"
-       xml:space="preserve"><tspan
-         id="tspan5535"
-         y="710.11969"
-         x="110.14114"
-         sodipodi:role="line"
-         style="font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;-inkscape-font-specification:Sawasdee" /><tspan
-         id="tspan5537"
-         y="729.89038"
-         x="110.14114"
-         sodipodi:role="line"
-         style="font-size:16px;font-weight:bold;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;-inkscape-font-specification:Sawasdee Bold" /><tspan
-         id="tspan5539"
-         y="749.73267"
-         x="110.14114"
-         sodipodi:role="line"
-         style="font-size:16px;font-weight:bold;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;-inkscape-font-specification:Sawasdee Bold">Siti e piattaforme web</tspan><tspan
-         id="tspan5541"
-         y="769.73267"
-         x="110.14114"
-         sodipodi:role="line"
-         style="font-size:16px;font-weight:bold;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;-inkscape-font-specification:Sawasdee Bold">Android App</tspan><tspan
-         id="tspan5543"
-         y="789.73267"
-         x="110.14114"
-         sodipodi:role="line"
-         style="font-size:16px;font-weight:bold;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;-inkscape-font-specification:Sawasdee Bold">iPhone App</tspan><tspan
-         id="tspan5545"
-         y="809.73267"
-         x="110.14114"
-         sodipodi:role="line"
-         style="font-size:16px;font-weight:bold;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;-inkscape-font-specification:Sawasdee Bold" /></text>
     <path
        style="fill:#0d333f;fill-opacity:1"
        inkscape:connector-curvature="0"
@@ -1115,16 +1066,16 @@
        style="fill:#0d333f;fill-opacity:1" />
     <text
        xml:space="preserve"
-       style="font-size:4.10985994px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#238cb8;fill-opacity:1;stroke:none;font-family:Sans"
-       x="43.641666"
-       y="989.70984"
+       style="font-size:5.88999891px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#238cb8;fill-opacity:1;stroke:none;font-family:Sans"
+       x="43.58709"
+       y="990.91248"
        id="text4054"
        sodipodi:linespacing="125%"
        transform="matrix(0.99957978,-0.02898727,0.02898727,0.99957978,0,0)"><tspan
          sodipodi:role="line"
          id="tspan4056"
-         x="43.641666"
-         y="989.70984">$_</tspan></text>
+         x="43.58709"
+         y="990.91248">$_</tspan></text>
     <g
        id="g5463"
        transform="matrix(0.29078957,2.5258343e-4,-2.5258343e-4,0.29078957,183.47924,1029.8704)"
@@ -1171,6 +1122,6 @@
        width="379.13385"
        height="5.6033506"
        x="0"
-       y="1047.2245" />
+       y="1046.7588" />
   </g>
 </svg>
