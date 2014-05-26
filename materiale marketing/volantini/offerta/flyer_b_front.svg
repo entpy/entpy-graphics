@@ -28,9 +28,9 @@
      inkscape:window-height="876"
      id="namedview273"
      showgrid="false"
-     inkscape:zoom="2.0013553"
-     inkscape:cx="109.86354"
-     inkscape:cy="227.3703"
+     inkscape:zoom="0.5"
+     inkscape:cx="131.25701"
+     inkscape:cy="28.084844"
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -468,7 +468,7 @@
   </g>
   <g
      id="g4538-6"
-     transform="matrix(0.24331015,0,0,0.24331015,89.201487,35.09873)">
+     transform="matrix(0.24331015,0,0,0.24331015,89.201488,35.09873)">
     <g
        style="display:inline"
        id="g4540-1"
@@ -1053,7 +1053,7 @@
      style="fill:#061a21;fill-opacity:0.58039216;stroke:none" />
   <g
      id="g4430"
-     transform="translate(-0.22360229,-560.5089)">
+     transform="translate(-0.22360106,-560.5089)">
     <rect
        width="204.25304"
        height="41.172592"
@@ -1061,7 +1061,7 @@
        x="87.664009"
        y="786.32941"
        id="rect6175"
-       style="fill:#175b6f;fill-opacity:1;stroke:none;display:inline" />
+       style="fill:#1c6e87;fill-opacity:1;stroke:none;display:inline" />
     <text
        x="189.47314"
        y="771.10516"
@@ -1086,35 +1086,35 @@
      sodipodi:linespacing="125%"
      id="text3529"
      y="190.70573"
-     x="188.71927"
+     x="189.21487"
      style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sawasdee;-inkscape-font-specification:Sawasdee"
      xml:space="preserve"><tspan
        y="190.70573"
-       x="188.71927"
+       x="189.21487"
        id="tspan3531"
        sodipodi:role="line">Questa è un'offerta <tspan
    id="tspan4390"
    style="font-weight:bold;text-align:center;text-anchor:middle;fill:#29ace2;fill-opacity:1">LIMITATA</tspan></tspan><tspan
        id="tspan3533"
        y="208.30615"
-       x="188.71927"
-       sodipodi:role="line">per poter usufruire di uno</tspan></text>
+       x="189.21487"
+       sodipodi:role="line">per usufruire di uno</tspan></text>
   <text
      xml:space="preserve"
      style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sawasdee;-inkscape-font-specification:Sawasdee"
-     x="188.71927"
+     x="189.7139"
      y="291.75354"
      id="text3535"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
-       x="188.71927"
+       x="189.7139"
        y="291.75354"
        id="tspan3539">su un <tspan
    id="tspan4400"
-   style="font-weight:bold;text-align:center;text-anchor:middle;fill:#29ace2;fill-opacity:1">SITO WEB</tspan> fatto da noi.</tspan><tspan
+   style="font-weight:bold;text-align:center;text-anchor:middle;fill:#29ace2;fill-opacity:1">SITO WEB</tspan> di acquisizione clienti.</tspan><tspan
        id="tspan3601"
        sodipodi:role="line"
-       x="188.71927"
+       x="189.7139"
        y="309.35394">Comunicaci il <tspan
    id="tspan4398"
    style="font-weight:bold;text-align:center;text-anchor:middle;fill:#29ace2;fill-opacity:1">codice</tspan> presente sul retro.</tspan></text>
