@@ -7,10 +7,34 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    width="379.13385"
    height="492.51968"
-   id="svg5571">
+   id="svg5571"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="flyer_b_front.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1375"
+     inkscape:window-height="876"
+     id="namedview268"
+     showgrid="false"
+     inkscape:zoom="1.16"
+     inkscape:cx="77.690225"
+     inkscape:cy="295.2816"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
   <defs
      id="defs5573">
     <filter
@@ -33,7 +57,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -929,127 +953,126 @@
        y="1046.7588"
        id="rect3222"
        style="fill:#238cb8;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <rect
+       width="282.92322"
+       height="109.48516"
+       rx="4.6217766"
+       x="48.105316"
+       y="811.11761"
+       id="rect5705"
+       style="fill:#061a21;fill-opacity:0.58039216;stroke:none" />
+    <rect
+       width="170.918"
+       height="24"
+       rx="2.7920821"
+       x="104.108"
+       y="691.60187"
+       id="rect5685"
+       style="fill:#061a21;fill-opacity:0.58039216;stroke:none" />
+    <text
+       x="131.50835"
+       y="709.67426"
+       id="text5687"
+       xml:space="preserve"
+       style="font-size:15.81654644px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#29ace2;fill-opacity:1;stroke:none;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold"
+       sodipodi:linespacing="125%"><tspan
+         x="131.50835"
+         y="709.67426"
+         id="tspan5689"
+         style="font-size:16px;font-weight:bold;text-align:start;text-anchor:start;fill:#29ace2;fill-opacity:1;-inkscape-font-specification:Sawasdee Bold">Software House</tspan></text>
     <g
-       transform="translate(0.04793549,-562.78693)"
-       id="g4087"
-       style="display:inline">
+       id="g3410"
+       transform="translate(0.04793549,-562.78693)">
       <g
-         id="g4063">
-        <rect
-           width="282.92322"
-           height="109.48516"
-           rx="4.6217766"
-           x="48.057381"
-           y="1373.9045"
-           id="rect5705"
-           style="fill:#061a21;fill-opacity:0.58039216;stroke:none" />
-        <g
-           id="g4041">
-          <g
-             transform="translate(0,549.62451)"
-             id="g5683">
-            <rect
-               width="170.918"
-               height="24"
-               rx="2.7920821"
-               x="104.06007"
-               y="704.76434"
-               id="rect5685"
-               style="fill:#061a21;fill-opacity:0.58039216;stroke:none" />
-            <text
-               x="131.4604"
-               y="722.83673"
-               id="text5687"
-               xml:space="preserve"
-               style="font-size:15.81654644px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#29ace2;fill-opacity:1;stroke:none;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold"><tspan
-                 x="131.4604"
-                 y="722.83673"
-                 id="tspan5689"
-                 style="font-size:16px;font-weight:bold;text-align:start;text-anchor:start;fill:#29ace2;fill-opacity:1;-inkscape-font-specification:Sawasdee Bold">Software House</tspan></text>
-          </g>
-          <text
-             x="189.51118"
-             y="1260.4584"
-             id="text5691"
-             xml:space="preserve"
-             style="font-size:15.81654644px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold"><tspan
-               x="189.51118"
-               y="1260.4584"
-               id="tspan5693"
-               style="font-weight:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sawasdee" /><tspan
-               x="189.51118"
-               y="1280.229"
-               id="tspan5695"
-               style="font-size:16px;font-weight:bold;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sawasdee Bold" /><tspan
-               x="189.51118"
-               y="1300.0713"
-               id="tspan5697"
-               style="font-size:16px;font-weight:bold;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sawasdee Bold">Siti e piattaforme web</tspan><tspan
-               x="189.51118"
-               y="1320.0713"
-               id="tspan5699"
-               style="font-size:16px;font-weight:bold;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sawasdee Bold">Android App</tspan><tspan
-               x="189.51118"
-               y="1340.0713"
-               id="tspan5701"
-               style="font-size:16px;font-weight:bold;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sawasdee Bold">iPhone App</tspan><tspan
-               x="189.51118"
-               y="1360.0713"
-               id="tspan5703"
-               style="font-size:16px;font-weight:bold;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sawasdee Bold" /></text>
-          <g
-             transform="translate(0.57125645,559.62451)"
-             id="g5711">
-            <text
-               x="61.431149"
-               y="860.64301"
-               id="text5713"
-               xml:space="preserve"
-               style="font-size:15.81654644px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#0d333f;fill-opacity:1;stroke:none;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold"><tspan
-                 x="61.431149"
-                 y="860.64301"
-                 id="tspan5715"
-                 style="font-size:16px;font-weight:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sawasdee">Acquisire nuovi clienti</tspan><tspan
-                 x="61.431149"
-                 y="880.64301"
-                 id="tspan5717"
-                 style="font-size:16px;font-weight:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sawasdee">Valorizzare la propria attività</tspan><tspan
-                 x="61.431149"
-                 y="900.64301"
-                 id="tspan5719"
-                 style="font-size:16px;font-weight:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sawasdee">Semplificare le operazioni quotidiane</tspan></text>
-            <g
-               id="g5721"
-               style="fill:#ffffff;fill-opacity:1">
-              <path
-                 d="m 12.857142,275.86139 a 12.142857,12.142857 0 1 1 -24.285713,0 12.142857,12.142857 0 1 1 24.285713,0 z"
-                 transform="matrix(0.14705879,0,0,0.14705879,55.918427,814.60036)"
-                 id="path5723"
-                 style="fill:#ffffff;fill-opacity:1;stroke:none" />
-              <path
-                 d="m 12.857142,275.86139 a 12.142857,12.142857 0 1 1 -24.285713,0 12.142857,12.142857 0 1 1 24.285713,0 z"
-                 transform="matrix(0.14705879,0,0,0.14705879,55.918427,834.77893)"
-                 id="path5725"
-                 style="fill:#ffffff;fill-opacity:1;stroke:none" />
-              <path
-                 d="m 12.857142,275.86139 a 12.142857,12.142857 0 1 1 -24.285713,0 12.142857,12.142857 0 1 1 24.285713,0 z"
-                 transform="matrix(0.14705879,0,0,0.14705879,55.918427,854.77893)"
-                 id="path5727"
-                 style="fill:#ffffff;fill-opacity:1;stroke:none" />
-            </g>
-          </g>
-        </g>
+         id="g3416">
+        <text
+           x="62.002403"
+           y="1420.2675"
+           id="text5713"
+           xml:space="preserve"
+           style="font-size:15.81654644px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#0d333f;fill-opacity:1;stroke:none;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold"
+           sodipodi:linespacing="125%"><tspan
+             x="62.002403"
+             y="1420.2675"
+             id="tspan5715"
+             style="font-size:16px;font-weight:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sawasdee">Acquisire nuovi clienti</tspan><tspan
+             x="62.002403"
+             y="1440.2675"
+             id="tspan5717"
+             style="font-size:16px;font-weight:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sawasdee">Valorizzare la propria attività</tspan><tspan
+             x="62.002403"
+             y="1460.2675"
+             id="tspan5719"
+             style="font-size:16px;font-weight:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sawasdee">Semplificare le operazioni quotidiane</tspan></text>
       </g>
-      <text
-         x="70.61274"
-         y="1395.1677"
-         id="text5707"
-         xml:space="preserve"
-         style="font-size:15.81654644px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#29ace2;fill-opacity:1;stroke:none;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold"><tspan
-           x="70.61274"
-           y="1395.1677"
-           id="tspan5709"
-           style="font-size:16px;font-weight:bold;text-align:start;text-anchor:start;fill:#29ace2;fill-opacity:1;-inkscape-font-specification:Sawasdee Bold">Sviluppo di piattaforme web per:</tspan></text>
     </g>
+    <g
+       transform="translate(0.61919194,-3.16242)"
+       id="g5721"
+       style="fill:#ffffff;fill-opacity:1">
+      <path
+         d="m 12.857142,275.86139 a 12.142857,12.142857 0 1 1 -24.285713,0 12.142857,12.142857 0 1 1 24.285713,0 z"
+         transform="matrix(0.14705879,0,0,0.14705879,55.918427,814.60036)"
+         id="path5723"
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 12.857142,275.86139 a 12.142857,12.142857 0 1 1 -24.285713,0 12.142857,12.142857 0 1 1 24.285713,0 z"
+         transform="matrix(0.14705879,0,0,0.14705879,55.918427,834.77893)"
+         id="path5725"
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 12.857142,275.86139 a 12.142857,12.142857 0 1 1 -24.285713,0 12.142857,12.142857 0 1 1 24.285713,0 z"
+         transform="matrix(0.14705879,0,0,0.14705879,55.918427,854.77893)"
+         id="path5727"
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         inkscape:connector-curvature="0" />
+    </g>
+    <text
+       sodipodi:linespacing="125%"
+       style="font-size:15.81654644px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#29ace2;fill-opacity:1;stroke:none;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold"
+       xml:space="preserve"
+       id="text5707"
+       y="832.3808"
+       x="70.660675"><tspan
+         style="font-size:16px;font-weight:bold;text-align:start;text-anchor:start;fill:#29ace2;fill-opacity:1;-inkscape-font-specification:Sawasdee Bold"
+         id="tspan5709"
+         y="832.3808"
+         x="70.660675">Sviluppo di piattaforme web per:</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3345"
+       y="736.41388"
+       x="189.57426"
+       style="font-size:10px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:15px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold"
+         y="736.41388"
+         x="189.57426"
+         id="tspan3347"
+         sodipodi:role="line">Siti, piattaforme web</tspan><tspan
+         id="tspan3408"
+         style="font-size:15px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold"
+         y="755.16388"
+         x="189.57426"
+         sodipodi:role="line">Strumenti di acquisizione clienti</tspan><tspan
+         style="font-size:15px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold"
+         id="tspan3351"
+         y="773.91388"
+         x="189.57426"
+         sodipodi:role="line">Android App, iPhone App</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#175b6f;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-206.11539"
+       y="801.93109"
+       id="text3446"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="-206.11539"
+         y="801.93109"
+         id="tspan3452"
+         style="font-size:15px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#175b6f;fill-opacity:1;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold">Pubblicizzare le proprie competenze</tspan></text>
   </g>
 </svg>
