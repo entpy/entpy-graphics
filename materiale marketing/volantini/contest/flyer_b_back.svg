@@ -30,9 +30,9 @@
      inkscape:window-height="876"
      id="namedview288"
      showgrid="false"
-     inkscape:zoom="1.0006774"
-     inkscape:cx="106.16376"
-     inkscape:cy="275.11841"
+     inkscape:zoom="0.70758578"
+     inkscape:cx="294.70259"
+     inkscape:cy="270.07288"
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -95,7 +95,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1168,12 +1168,12 @@
       </g>
       <text
          sodipodi:linespacing="125%"
-         style="font-size:21.87708473px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#29ace2;fill-opacity:1;stroke:none;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold"
+         style="font-size:21.87708472999999998px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#83c61a;fill-opacity:1;stroke:none;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold"
          xml:space="preserve"
          id="text5989"
          y="118.77409"
          x="536.80743"><tspan
-           style="font-size:19.36447906px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#29ace2;fill-opacity:1;font-family:Overlock;-inkscape-font-specification:Overlock"
+           style="font-size:19.36447906000000074px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#83c61a;fill-opacity:1;font-family:Overlock;-inkscape-font-specification:Overlock"
            id="tspan5991"
            y="118.77409"
            x="536.80743">Con tre semplici passi:</tspan></text>

@@ -30,7 +30,7 @@
      showgrid="false"
      inkscape:zoom="0.67916065"
      inkscape:cx="44.471924"
-     inkscape:cy="328.21032"
+     inkscape:cy="504.899"
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -243,7 +243,7 @@
     </rdf:RDF>
   </metadata>
   <g
-     id="g4219">
+     id="g3521">
     <text
        x="-2625.7046"
        y="234.28581"
@@ -482,7 +482,7 @@
          style="fill:#238cb8;fill-opacity:1"
          inkscape:connector-curvature="0" />
       <polygon
-         points="195.188,516.375 197.11,516.375 201.862,516.375 207.131,516.375 211.998,516.375 214.312,516.375 249.55,516.375 243.794,493.674 242.837,489.887 241.613,485.077 204.989,340.664 164.482,508.247 163.153,513.745 162.522,516.375 187.232,516.375 "
+         points="201.862,516.375 207.131,516.375 211.998,516.375 214.312,516.375 249.55,516.375 243.794,493.674 242.837,489.887 241.613,485.077 204.989,340.664 164.482,508.247 163.153,513.745 162.522,516.375 187.232,516.375 195.188,516.375 197.11,516.375 "
          transform="matrix(0.1021569,0,0,0.1021569,-1775.9534,-888.76143)"
          id="polygon5803"
          style="fill:#238cb8;fill-opacity:1" />
@@ -677,7 +677,7 @@
          style="fill:#238cb8;fill-opacity:1"
          inkscape:connector-curvature="0" />
       <polygon
-         points="249.55,516.375 243.794,493.674 242.837,489.887 241.613,485.077 204.989,340.664 164.482,508.247 163.153,513.745 162.522,516.375 187.232,516.375 195.188,516.375 197.11,516.375 201.862,516.375 207.131,516.375 211.998,516.375 214.312,516.375 "
+         points="242.837,489.887 241.613,485.077 204.989,340.664 164.482,508.247 163.153,513.745 162.522,516.375 187.232,516.375 195.188,516.375 197.11,516.375 201.862,516.375 207.131,516.375 211.998,516.375 214.312,516.375 249.55,516.375 243.794,493.674 "
          transform="matrix(0.1021569,0,0,0.1021569,-1775.9534,-888.76143)"
          id="polygon5881"
          style="fill:#238cb8;fill-opacity:1" />
@@ -798,7 +798,7 @@
            style="fill:#238cb8;fill-opacity:1"
            inkscape:connector-curvature="0" />
         <polygon
-           points="386.438,401.625 376.875,401.625 357.75,439.875 405.562,439.875 "
+           points="357.75,439.875 405.562,439.875 386.438,401.625 376.875,401.625 "
            transform="matrix(0.14349697,0,0,0.14349697,-1737.0382,-917.39995)"
            id="polygon5929"
            style="fill:#238cb8;fill-opacity:1" />
@@ -813,7 +813,7 @@
            style="fill:#238cb8;fill-opacity:1"
            inkscape:connector-curvature="0" />
         <polygon
-           points="376.875,401.625 357.75,439.875 405.562,439.875 386.438,401.625 "
+           points="405.562,439.875 386.438,401.625 376.875,401.625 357.75,439.875 "
            transform="matrix(0.1021569,0,0,0.1021569,-1830.7912,-890.41768)"
            id="polygon5935"
            style="fill:#238cb8;fill-opacity:1" />
@@ -1267,51 +1267,47 @@
        y="736.34399"
        id="rect5977"
        style="fill:#238cb8;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-    <g
-       transform="matrix(1.2432917,0,0,1.2432917,26.51779,56.455216)"
-       id="g4210">
-      <rect
-         width="296.05521"
-         height="157.35249"
-         rx="4.836298"
-         x="41.539322"
-         y="167.58357"
-         id="rect6157"
-         style="fill:#061a21;fill-opacity:0.58039216;stroke:none" />
-      <text
-         xml:space="preserve"
-         style="font-size:25.73812675px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Overlock;-inkscape-font-specification:Overlock Bold"
-         x="68.672882"
-         y="217.40334"
-         id="text3240"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan3242"
-           x="68.672882"
-           y="217.40334"
-           style="font-size:27.3467598px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#29ace2;fill-opacity:1;font-family:Overlock;-inkscape-font-specification:Overlock Bold">Vuoi far parlare di te?</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:19.30359459px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Overlock;-inkscape-font-specification:Overlock"
-         x="141.96457"
-         y="277.53152"
-         id="text3244"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan3246"
-           x="141.96457"
-           y="277.53152">Volta pagina</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:12.86906338px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Overlock;-inkscape-font-specification:Overlock"
-         x="150.50932"
-         y="295.20038"
-         id="text3248"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan3250"
-           x="150.50932"
-           y="295.20038">(in tutti i sensi)</tspan></text>
-    </g>
+    <rect
+       style="fill:#061a21;fill-opacity:0.58039216;stroke:none"
+       id="rect6157"
+       y="264.81049"
+       x="78.163284"
+       rx="6.012929"
+       height="195.63506"
+       width="368.08298" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3240"
+       y="326.75098"
+       x="111.89822"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Overlock;-inkscape-font-specification:Overlock Bold"
+       xml:space="preserve"><tspan
+         style="font-size:34px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#29ace2;fill-opacity:1;font-family:Overlock;-inkscape-font-specification:Overlock Bold"
+         y="326.75098"
+         x="111.89822"
+         id="tspan3242"
+         sodipodi:role="line">Vuoi far parlare di te?</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3244"
+       y="397.50784"
+       x="203.02116"
+       style="font-size:23.99999809px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Overlock;-inkscape-font-specification:Overlock"
+       xml:space="preserve"><tspan
+         y="397.50784"
+         x="203.02116"
+         id="tspan3246"
+         sodipodi:role="line">Volta pagina</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3248"
+       y="419.4754"
+       x="213.64478"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Overlock;-inkscape-font-specification:Overlock"
+       xml:space="preserve"><tspan
+         y="419.4754"
+         x="213.64478"
+         id="tspan3250"
+         sodipodi:role="line">(in tutti i sensi)</tspan></text>
   </g>
 </svg>
