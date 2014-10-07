@@ -14,8 +14,8 @@
    width="524.40942"
    height="744.09448"
    id="svg5571"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="flyer_2_back.svg">
+   inkscape:version="0.48.1 r9760"
+   sodipodi:docname="4ATSM.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -25,16 +25,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1375"
-     inkscape:window-height="876"
+     inkscape:window-width="618"
+     inkscape:window-height="446"
      id="namedview310"
      showgrid="false"
-     inkscape:zoom="0.63432805"
-     inkscape:cx="-161.33869"
-     inkscape:cy="260.10717"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1"
+     inkscape:zoom="1.2686561"
+     inkscape:cx="161.4706"
+     inkscape:cy="358.47931"
+     inkscape:window-x="673"
+     inkscape:window-y="349"
+     inkscape:window-maximized="0"
      inkscape:current-layer="svg5571" />
   <defs
      id="defs5573">
@@ -1170,21 +1170,10 @@
          id="text6049"
          y="257.8331"
          x="2162.0474"><tspan
-           id="tspan6051"
-           y="257.8331"
-           x="2162.0474" /><tspan
-           style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:187.00000048%;letter-spacing:0px;word-spacing:0px;font-family:Overlock;-inkscape-font-specification:Overlock"
-           id="tspan6053"
-           y="278.40311"
-           x="2162.0474" /><tspan
            style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:187.00000048%;letter-spacing:0px;word-spacing:0px;font-family:Overlock;-inkscape-font-specification:Overlock"
            id="tspan6055"
            y="298.97311"
-           x="2162.0474">Inserisci il codice presente su questo volantino</tspan><tspan
-           style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:187.00000048%;letter-spacing:0px;word-spacing:0px;font-family:Overlock;-inkscape-font-specification:Overlock"
-           id="tspan6057"
-           y="319.54309"
-           x="2162.0474" /></text>
+           x="2162.0474">Inserisci il codice presente su questo volantino e...</tspan></text>
     </g>
     <g
        id="g6730"
@@ -1217,7 +1206,7 @@
            style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:187.00000048%;letter-spacing:0px;word-spacing:0px;font-family:Overlock;-inkscape-font-specification:Overlock"
            id="tspan6071"
            y="319.22964"
-           x="2162.2344">Controlla il contenuto del codice</tspan></text>
+           x="2162.2344">...per te un simpatico omaggio</tspan></text>
     </g>
   </g>
   <text
